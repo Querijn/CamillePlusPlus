@@ -1,0 +1,3 @@
+[submodule "tools/api-explorer"]
+	path = tools/api-explorer
+	url = https://github.com/Pupix/lol-client-api-explorer.git
